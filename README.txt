@@ -11,3 +11,7 @@ Upload all eight files to the root of your existing GitHub photo-booth repositor
 Please test on your tablet; syntax checks do not replace real-device testing.
 
 V13 fixes year clipping under the bottom border.
+
+
+V14 - QUICK SHARE DELIVERY
+After capturing, tap Get My Photo — Quick Share. Android opens its share sheet. Choose Quick Share and then QR code (when offered) manually; a browser cannot directly force Quick Share to generate its QR code. Older phones can often scan this QR code. The Text or Email backup opens the same Android share sheet and is intended for host assistance. Finish clears the current image and returns to camera mode. No Cloudflare backend required. Quick Share QR delivery may use Samsung temporary cloud transfer. Test on your Galaxy tablet before the event.
