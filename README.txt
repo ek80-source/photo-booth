@@ -1,5 +1,11 @@
-Photo Booth V10 — Southwestern Poster Border
+Photo Booth V12 — Compact Greeting / Border Cleanup
 
-Upload all eight files to the root of the GitHub photo-booth repository. The new default border matches the Southwestern geometric border of the holiday promotional sign. Mirror Mode, greetings, festive font, photos, GIFs, and sharing remain available.
+Changes from V11:
+- Removed the two Desert Weave border options because their repeating motifs were unevenly distributed.
+- Kept the matching Southwestern poster border, selected by default.
+- Reduced greeting/year footer height and text sizes to preserve more of the photograph.
+- Retained full-screen mirror countdown and all other V11 features.
 
-After deploying, open https://ek80-source.github.io/photo-booth/?v=10 and reload if necessary.
+Upload all eight files to the root of your existing GitHub photo-booth repository, replacing previous files. Commit changes. Open https://ek80-source.github.io/photo-booth/?v=12 after deployment.
+
+Please test on your tablet; syntax checks do not replace real-device testing.
