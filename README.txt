@@ -9,3 +9,5 @@ Changes from V11:
 Upload all eight files to the root of your existing GitHub photo-booth repository, replacing previous files. Commit changes. Open https://ek80-source.github.io/photo-booth/?v=12 after deployment.
 
 Please test on your tablet; syntax checks do not replace real-device testing.
+
+V13 fixes year clipping under the bottom border.
