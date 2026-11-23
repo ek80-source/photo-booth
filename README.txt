@@ -1,7 +1,5 @@
-Photo Booth V9 — Festive Typography and Desert Weave Borders
+Photo Booth V10 — Southwestern Poster Border
 
-Upload all seven files to the root of your existing GitHub Pages photo-booth repository, replacing existing files.
+Upload all eight files to the root of the GitHub photo-booth repository. The new default border matches the Southwestern geometric border of the holiday promotional sign. Mirror Mode, greetings, festive font, photos, GIFs, and sharing remain available.
 
-New: locally bundled festive serif font, including the special characters used by the supplied holiday greetings; two optional geometric Desert Weave borders inspired broadly by Southwestern textile aesthetics, not presented as a specific tribal design.
-
-Mirror Mode remains the default. No photos are uploaded by this app.
+After deploying, open https://ek80-source.github.io/photo-booth/?v=10 and reload if necessary.
